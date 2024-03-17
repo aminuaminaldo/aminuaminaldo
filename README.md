@@ -32,7 +32,7 @@
 <a href="https://codepen.io/aminaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aminaldo" height="30" width="40" /></a>
 <a href="https://twitter.com/aminuaminaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aminuaminaldo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aminu-asharaf-n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aminu-asharaf-n/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/nusers/17480360/aminu-aminaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/17480360/aminu-aminaldo" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17480360/aminu-aminaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/17480360/aminu-aminaldo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aminuaminaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aminuaminaldo" height="30" width="40" /></a>
 </p>
 
