@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aminu Aminaldo</h1>
 <h3 align="center">Passionate developer showcasing creativity and technical expertise through innovative full stack projects. Explore the repository to witness the transformation of ideas into high-quality applications.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminuaminaldo&label=Profile%20views&color=0e75b6&style=flat" alt="aminuaminaldo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminuaminaldo" alt="aminuaminaldo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aminuaminaldo" target="blank"><img src="https://img.shields.io/twitter/follow/aminuaminaldo?logo=twitter&style=for-the-badge" alt="aminuaminaldo" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🔭 I’m currently working on **Aldobi**
 
