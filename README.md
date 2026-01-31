@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aminu Aminaldo</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aminuaminaldo.aminuaminaldo" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aminu+Aminaldo!;" />
+</h1>
+<!-- <h1 align="center">Hi 👋, I'm Aminu Aminaldo</h1> -->
 <h3 align="center">Passionate developer showcasing creativity and technical expertise through innovative full stack projects. Explore the repository to witness the transformation of ideas into high-quality applications.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminuaminaldo&label=Profile%20views&color=0e75b6&style=flat" alt="aminuaminaldo" /> </p>
 
