@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **aminuashraf123@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aminu-asharaf-n/](https://www.linkedin.com/in/aminu-asharaf-n/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/aminuaminaldo/](https://www.linkedin.com/in/aminuaminaldo/)
 
 - ⚡ Fun fact **I'm a tech polymath, equally comfortable with frontend, backend, and everything in between.**
 
@@ -46,3 +46,15 @@
     <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,express,nestjs,nextjs,vuejs" /><br>
     <img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,mysql,redis,firebase" /><br>
 </div>
+
+<br>
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=aminuaminaldo&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aminuaminaldo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminuaminaldo&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
