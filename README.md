@@ -39,22 +39,24 @@
 <a href="https://stackoverflow.com/users/17480360/aminu-aminaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/17480360/aminu-aminaldo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aminuaminaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aminuaminaldo" height="30" width="40" /></a>
 </p>
-
+<hr/>
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,javascript,tailwind,bootstrap,git,r,dart,aws,azure,kotlin" />
     <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,express,nestjs,nextjs,vuejs" /><br>
     <img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,mysql,redis,firebase" /><br>
 </div>
-
-<br>
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=aminuaminaldo&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aminuaminaldo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminuaminaldo&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<hr/>
+<div align="center">
+  <h3>🐍 My Contributions 🐍</h3>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aminuaminaldo/aminuaminaldo/output/github-contribution-grid-snake.svg" />  
+</div>
+<hr/>
+<h3 align="center">⚡ Stats ⚡</h3>
+<div align=center>
+  <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aminuaminaldo&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=380 src="https://github-readme-stats-salesp07.vercel.app/api?username=aminuaminaldo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=310 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aminuaminaldo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
